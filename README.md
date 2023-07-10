@@ -19,7 +19,7 @@ Cretima
 > 4 WordCloud를 활용한 주요 키워드 분석 <br>
 
 ## Development Environment
-IDE: Jupyter Lab
+IDE: Jupyter Lab <br>
 Language: Python
 
 ## DataSet
