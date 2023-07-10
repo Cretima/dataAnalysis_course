@@ -3,8 +3,8 @@
 ## Description
 Kaggle dataset인 'Udemy Courses’을 이용한 데이터 분석 프로젝트
 
-분석가:
-yoonki1207
+분석가: <br>
+yoonki1207 <br>
 Cretima
 
 
@@ -23,7 +23,7 @@ IDE: Jupyter Lab <br>
 Language: Python
 
 ## DataSet
-'Udemy Courses'
+'Udemy Courses' <br>
 
 - **course_id:** course(강좌) 고유 id
 - **course_title:** course의 제목
