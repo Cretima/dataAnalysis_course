@@ -13,10 +13,10 @@ Cretima
 <br>
 
 ## 분석 목표
-> 1 트랜드 분석
-> 2 강좌 가격 책정 요인(영향) 분석
-> 3 강좌 수익 분석
-> 4 WordCloud를 활용한 주요 키워드 분석
+> 1 트랜드 분석 <br>
+> 2 강좌 가격 책정 요인(영향) 분석 <br>
+> 3 강좌 수익 분석 <br>
+> 4 WordCloud를 활용한 주요 키워드 분석 <br>
 
 ## Development Environment
 IDE: Jupyter Lab
